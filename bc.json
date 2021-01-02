@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f4b7cae9-14de-4bae-9e22-175c2b1c6d89.ws-eu03.gitpod.io",
+    "address": "https://b35c2d9c-2fca-4efd-966e-6ad100520f9d.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -179,7 +179,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
