@@ -80,7 +80,7 @@
         {
             "slug": "01.4-building-a-layout",
             "title": "01.4-building-a-layout",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-building-a-layout",
             "translations": [
                 "es",
