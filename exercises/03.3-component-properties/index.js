@@ -30,7 +30,7 @@ BootstrapCard.propTypes = {
 // 3) Use ReactDOM to add the component into then DOM element #myDiv
 ReactDOM.render(
 	<BootstrapCard
-		title="Paul Mccartney"
+		title="Bob Dylan"
 		imageUrl="https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/"
 		description="Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter."
 		buttonUrl="https://en.wikipedia.org/wiki/Bob_Dylan"

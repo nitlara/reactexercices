@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://eded8cfb-bd90-4f59-80c7-093d3130d349.ws-eu03.gitpod.io",
+    "address": "https://f4b7cae9-14de-4bae-9e22-175c2b1c6d89.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -168,7 +168,7 @@
         {
             "slug": "03.3-component-properties",
             "title": "03.3-component-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/03.3-component-properties",
             "translations": [
                 "es",
