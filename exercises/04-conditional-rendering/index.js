@@ -7,12 +7,14 @@ const Alert = props => {
 	if (props.show === false) {
 		return null;
 	} else {
-		return (
-			<div className="alert alert-danger" role="alert">
-				This is a primary alert-check it out!
-			</div>
-		);
+		props.text;
+		// return here the component html
 	}
+	return (
+		<div className="alert alert-danger" role="alert">
+			This is a primary alert-check it out!
+		</div>
+	);
 };
 Alert.propTypes = {
 	color: PropTypes.string,
